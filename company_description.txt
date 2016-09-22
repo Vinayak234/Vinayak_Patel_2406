@@ -1,3 +1,36 @@
-My company name is Virtualwear. Currently, we have one location in New York City. Total number of employees would be 15.
-Virtualwear will provide the luxury to the general consumer to envision themselves in clothing before they even try it.
-The product will be like looking in a mirror with a full 360 degrees scan of yourself with the desired clothing. 
+My company name is Virtualwear Clothing. Currently, we have one location in New York City. Total number of employees would be 30. 
+Virtualwear will provide the luxury to the general consumer to envision themselves in clothing before they even try it. 
+The product will be like looking in a mirror with a full 360-degree scan of themselves with the desired clothing. 
+Virtualwear Booth will also work like advertising digital banner for our partners’ products. 
+For the trial period, we think to put our Virtualwear Booth to 200 locations including busiest malls, subway stations, and the Domestic and International Airport. 
+Our minimum target would be 10 complete purchases transactions at each location per day. So, our company would be end up with around 730,000 purchases. 
+If our consumer spends $80 dollars, our annual sells would be $ 58,400,000. 
+If company selling different merchandises products so will charge 3 percent of the overall sells which estimate our revenue $1.7 million. 
+
+
+Purchases transaction would be like following:
+1.	GO: When consumer stands at the Virtualwear booth, system will ask press the go button in order to start the process. 
+2.	Camera Initialization: Camera is initialized so that the application can start mapping the user’s body.
+3.	Mapping: App pin points the user body with its sophisticated algorithm.
+4.	Overlay: When mapping is complete, the overlay is started which superimposes the Virtualwear item on top of the user’s body.
+5.	Item Selection: After Setup the user can select the item of their choice by tapping on the screen.
+6.	Item Download: Virtualwear item will automatically download onto the user’s phone memory so it can be accessed by the application.
+7.	Account setup: When consumer stands at the Virtualwear booth, system will ask for the login users credential or signup for the user account.
+8.	Virtualwear Shopping Bag: Items can be added to the Virtualwear Shopping Bag.
+9.	Checkout: User can finish their transaction by clicking the checkout button.
+10.	Delivery: We will deliver the product through currier service like UPS, FedEx, and USPS. 
+
+
+There is also troubleshoot transaction.
+
+1.	Keyword: Troubleshoot traction will start by asking for keyword which problem occurs the users. Keyword also helps to narrow down time to identified problem.
+2.	Frequent answers: if Keyword match with our frequent problems which will prompted the solution.
+3.	24/7 help service: if our prompted answer would not help them, there is our customer service will answers the query of the consumer. Also, If help service find technical difficulty to consumer they will assign Ticket no, which carries the issue, case number and the due date 
+4.	Technical Support: Our Technical support will work under ticket system will help technical stuff to follow the priorities like due dates.
+5.	Survey: last step would be the survey which helps to find out costumer’s feedback on customer service. It will also help to improve the service for future. 
+
+
+As I mention ago, we are planning to put the 200 Booth in Malls, subway and Airports, our estimation is that more than 100 tractions par booth occurs to just try our services which lead us to handle 20000 tractions per day traffic on overs network. 
+Also, our Booth carry high definition videos and Image files of various brands clothes so we can represent the Virtual Image of the consumer. Because it required a lot of data sizes which will required us to get high speed internet to our servers.
+ Our Supplier would be a hardware company who provide necessary hardware to make our Virtualwear Booth like sensors, displays, and etc. Delivery Services like UPS, DHL, and FedEx would be our suppliers as well who we helps to delivered our product to our customer.
+ Also, our technician who we helps to create and maintain our services we will call them our clients as well.  Our clients would be Malls like Roosevelt field Mall, Queens Center, Macy’s and more, John F. Kennedy International Airport and LaGuardia airport, and MTA.
