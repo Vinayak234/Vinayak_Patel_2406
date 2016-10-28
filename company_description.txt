@@ -1,4 +1,26 @@
-My company name is Virtualwear Clothing. Currently, we have one location in New York City. Total number of employees would be 30. 
+My company name is Virtualwear Clothing. Currently, we have one location in New York City. Total number of employees would be 45. 
+
+                  EMPLOYEES CHART
+************************************************************
+
+Project Manager			1
+Head of product			1
+Product owner			3
+Head of SMs     		1
+Scrum Master			3
+Head of Development 		1
+Developers / DBA		9
+Head of quality Assurence	1
+QA Engineers			9
+Head of User Experience		1
+User Experience			3
+Head of Release Managment	1
+DevOps				3
+Field Engineers 		8
+------------------------------------
+Total Employees			45
+
+*************************************************************
 Virtualwear will provide the luxury to the general consumer to envision themselves in clothing before they even try it. 
 The product will be like looking in a mirror with a full 360-degree scan of themselves with the desired clothing. 
 Virtualwear Booth will also work like advertising digital banner for our partners’ products. 
@@ -31,6 +53,28 @@ There is also troubleshoot transaction.
 
 
 As I mention ago, we are planning to put the 200 Booth in Malls, subway and Airports, our estimation is that more than 100 tractions par booth occurs to just try our services which lead us to handle 20000 tractions per day traffic on overs network. 
+
+
+******************************
+*****     File Size      *****
+******************************
+
+
+On-Screen Photo Width: 4096 pixels
+On-Screen Photo Height:2160 pixels
+dots per inch: 72 DPI
+Bit depth: 24 bit RGB (16.7 millions colors)
+
+
+Total Pixels: 8847360 pixels
+
+Photo Width: 56.89 inches
+Photo Height:30 inches
+
+Bytes: 26542080 bytes
+
+Megabytes: 25.3125 Mb  per traction
+************************************************
 Also, our Booth carry high definition videos and Image files of various brands clothes so we can represent the Virtual Image of the consumer. Because it required a lot of data sizes which will required us to get high speed internet to our servers.
  Our Supplier would be a hardware company who provide necessary hardware to make our Virtualwear Booth like sensors, displays, and etc. Delivery Services like UPS, DHL, and FedEx would be our suppliers as well who we helps to delivered our product to our customer.
  Also, our technician who we helps to create and maintain our services we will call them our clients as well.  Our clients would be Malls like Roosevelt field Mall, Queens Center, Macy’s and more, John F. Kennedy International Airport and LaGuardia airport, and MTA.
