@@ -1,0 +1,40 @@
+*****************************************************************************************************************
+14. What information system is being proposed to be designed?
+Virtualwear uses information systems to gain competitive advantages to reach the business goals. The IS will use in Virtualwear are Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), and E-commerce. 
+*****************************************************************************************************************
+15. Describe why the company needs it and why the company would be better off after it is in place.
+Customer relationship management (CRM) will help to build up and maintain a good relationship with customers. It also helps where the clothes are custom sizes based on customers’ physics and need. CRM system helps in touch of customers directly. 
+Enterprise Resource Planning (ERP) to identify specific components, check inventory, send to the appropriate suppliers when received customers order.
+E-commerce to improve supply chain and customer services. It will help to provide products information, technical support and others service to customers. e-commerce for customers who can buy products, figure out style which fits them well.
+
+*****************************************************************************************************************  
+16. Provide an estimate of how long it will take to design, implement, and install it.
+It divides into 5 different model steps 
+Model 1 – base system set-up: 20 hours
+Model 2 – legacy data clean-up / deduplication: 30 hours of Cleaning/deduplication the legacy data before
+Model 3 – importing the clean data in a structured manner: 15 hours (Once Model 2 is out of the way several weeks later, this part isn’t too bad) 
+Model 4 – customizations / integrations: 20 hours depending on the needs
+Model 5 – training: 35 hours (20 hours for the materials preparation and 15 hours for the training)
+As estimation, it will take 120 hours. 
+
+***************************************************************************************************************** 
+17. Provide an estimate of how much will the system design, implementation, and installation cost?
+Licensing		$5,000 – $100,000
+Hosting (monthly)	$1,000-$2,000+
+Design			$10,000-$150,000+
+Custom Development	$10,000 – $150,000+
+Setup/Config		$2,000 – $10,000+
+Training		$500 – $5,000+
+Maintenance (montly)	$2,000 – $5,000+
+Total Setup*		$30,500 – $422,000+
+Total Annual*		$36,000 – $84,000
+
+***************************************************************************************************************** 
+18. Provide an estimate of how many people will be needed to carry out everything?
+Licensing, Hosting 		1
+
+Design / Custom Development	3-5
+Setup/Config			3
+Training			3
+Maintenance (montly)		2
+Total				12-15
