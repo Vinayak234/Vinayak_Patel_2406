@@ -1,0 +1,35 @@
+21. Describe between two and four functional requirements that will fulfill the needs of clients.
+
+	1. The first functional requirements would be inventory left. this requirements inform clients how much of a product is left which they want to order.
+	
+	2. The second functional requirements would be order. This Functional requirements will helps Customers to order with ease. it also inform customers how many products they order.
+	
+	3. The third functional requirements would be support. This Requirements helps client with customer requests like receive and process help requests. 
+	
+	4. And fourth functional requirements that will fullfill the needs would be delivery. This fuctional requirement will inform the custome eastimate delivery of the product.
+
+
+22. Describe between two and four functional requirements that will fulfill the needs of suppliers. 
+	1. The first functional requirements that fulfill the needs of suppliers would be that the suppliers are to let them know what products have a limited inventory left so extra can be purchased. 
+	
+	2. The Second functional requirements that fulfill the needs of suppliers would be supplier should handle the shipping order efficiently.
+	
+	3. The third functional requirements that fulfill the needs of suppliers would be that suppliers can able to activily particapaite in price changes or product changes with customers needs.
+
+
+23. Describe between two and four functional requirements that will help someone administer the proposed information system. 
+
+	1. The first functional requirements that will help administer the proposed information system would be dashboard view where he/she monitor our virtualwear booths.
+	
+	2. The second functional requirements that will help administer the proposed information system would be able to send the technical support to the loction if it has major issues.
+	
+	3. The third functional requirements that will help administer the proposed information system would be make secure the database which as customors' information.
+
+24. Describe between two and four functional requirements that will help analyze the quality of the company’s operations and inform strategic decisions. 
+	
+	1. The first functional requirements that will help administer the proposed information system would be detailed history of the order which helps to generate the list of products which boost company's revenue
+	and elimanate the product lineup which badly affact our revenue.
+	
+	2. second fuctional requirement would be track record about employees how he/she benefical to the company so he/she can be offer bonus.
+	
+
