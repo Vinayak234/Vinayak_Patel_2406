@@ -1,0 +1,15 @@
+19. Envision the way the company does business now, i.e. before this system is in place. With respect to this preexisting situation, list at least five problems with the current state of affairs that would be solved or improved by the proposed system. 
+
+	1. It sounds complicated to shop with Virtualwear.
+	2. Lack of Customer Support
+	3. What If My Order Never Arrives?
+	4. What If I Don't Get What I Ordered?
+	5. Return product: Returning an item is difficult in case of shopping with us.
+
+20. For each problem, provide a system improvement objective that would be accomplished and that would be measurable in some objective way. Refer to our text for discussion of what good examples of system improvement objectives are.
+
+	1. It is only time when customers feel that It is complicated to shop with Virtualwear when the User interface is complicated. Asking user to select a button from thousand choices. So, to elimanate the problem, where we design system is easy to use. 
+	2. for the Second problem to address we will built 24/7 customer service through the phone and chat. and also the direct support from the Virtualwear booth.
+	3. Third problem could be what If order never arrives. we send them another product and send them with apployogy letter with it as well.
+	4. Although seller accepts sells return, they usually wants the item within a short period of time and you also have to pay for the shipping charges.
+	   so, shopping with us we will offer free returns on most of our product. Also, there will be 10 days return policy to get refund. 
