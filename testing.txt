@@ -1,0 +1,39 @@
+ORDER SCENARIO :
+
+•	Trying to use order function intensely by Order the random products from the Virtualwear and notice the requirement  
+
+•   NORMAL CASE:Make the number of the order of the product with which is in the stock on specific given time. 
+		It will check the number of the product which is in inventory
+
+•   EDGE CASE: 	As sample order, I will find out the maximum number of the product in the inventory and try to order that many order and even slight some more order
+		and find out the in the edge case workout or not. 
+			
+		For example: we have limit of 30 Virtualwear jeans a single person can by. so, as sample case scenario, 
+		I tried to order 30 jeans and then I tried to order 31 jeans in same invoice to find out limit functions works properly 
+			
+•   EXTREME CASE: if above case works perfects then I will try to pack thousands of different products in one invoice and figured out that how can far system can handle.
+ 
+ 
+Help & support is will test as well:
+•	I will test support, including phone support, an online FAQs page, live chat, and email contact address.
+
+customer support 
+
+•	I will test vendor relationships with the product suppliers and will be able to help the customer every step or not..
+
+•	Test also monitor the progress sales are accurate by time as well..
+
+ last testing method is carried out in three steps:
+
+•	The first includes unit testing, 
+	where in each module is tested to provide its correctness, validity and determine any missing operations and to verify whether the objectives have been met. 
+	
+•	The second step includes Integration testing.
+	It need not be the case, the software whose modules when run individually and showing perfect results, will also show perfect results when run. 
+	The individual modules are clipped under this major module and tested again and verified the results.
+
+•	The final step involves validation and testing which determines which the software functions as the user expected. 
+	Here also some modifications were. In the completion of the project it is satisfied fully by the end user
+	
+
+
